@@ -68,6 +68,7 @@ AiRes is an AI-powered tool that enhances research papers using Generative AI. I
 
 
 ## Demo
-[Watch the video](https://drive.google.com/uc?export=download&id=1a6Ub5mtKWVFD11Fw6X7IJpdqAc9jzUQo)
+![Preview File](https://drive.google.com/uc?export=view&id=1a6Ub5mtKWVFD11Fw6X7IJpdqAc9jzUQo)
+
 
 
